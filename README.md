@@ -9,3 +9,5 @@ Recognize and manipulate faces from Python or from the command line with the wor
 <br/>https://youtu.be/vOokYj52v6Y
 
 
+[![DETECTION VIDEO](https://img.youtube.com/vi/xDCV0f_h3t8/0.jpg)](https://www.youtube.com/watch?v=xDCV0f_h3t8)
+<br/>https://youtu.be/xDCV0f_h3t8
