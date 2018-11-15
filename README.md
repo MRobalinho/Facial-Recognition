@@ -77,3 +77,7 @@ in that example (Face-recognition_6) i use the name file to extrat the person na
 
 [![DETECTION VIDEO](https://img.youtube.com/vi/xDCV0f_h3t8/0.jpg)](https://www.youtube.com/watch?v=xDCV0f_h3t8)
 <br/>https://youtu.be/xDCV0f_h3t8
+
+[![DETECTION VIDEO](https://img.youtube.com/vi/lJGJ2FB-_no/0.jpg)](https://www.youtube.com/watch?v=lJGJ2FB-_no)
+<br/>https://youtu.be/lJGJ2FB-_no
+
