@@ -3,12 +3,13 @@
 ## Facial Recognition, some explanation about
 
 Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library.
-How it works?
+
+### How it works?
 The human face, despite the variations from person to person, has a basic composition that does not change, read by the applications as points in common, that vary according to the complexity of the system.
 
 By using logarithms and software that map this pattern to people, it is possible to record only the face or all movements and employ them in the most diverse functions. All have the same principle: detect a face in geometric and logarithmic shapes and then mount it as in a puzzle.
 
-The face recognition system consists of three fundamental phases: face tracking, extraction and selection of facial features, and face recognition.
+The face recognition system consists of three fundamental phases: <b> face tracking, extraction and selection of facial features, and face recognition</b>.
 
 The first step is to inform the coordinates of the characteristic points of the eyebrow, eyes, nose and mouth face.
 
@@ -19,13 +20,13 @@ The first step is to identify through a camera (digital, webcam, cell phone, amo
 In our algorithm ( face_recognition ) the system find the points: 
 <br/>chin 
 <br/>left_eyebrow 
-right_eyebrow 
-nose_bridge 
-nose_tip 
-left_eye 
-right_eye 
-top_lip 
-bottom_lip
+<br/>right_eyebrow 
+<br/>nose_bridge 
+<br/>nose_tip 
+<br/>left_eye 
+<br/>right_eye 
+<br/>top_lip 
+<br/>bottom_lip
 
 These points are written and stored in the format of algorithms in a database, which recognize them through calculations. It sounds easy, but it all took some time to consolidate with the efficiency we see today.
 
