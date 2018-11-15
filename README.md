@@ -53,15 +53,15 @@ pip install -r requirements.txt --no-color
 Need Install the follows packages (The packages are in the file requirements.txt)
 
 
->face_recognition_models 
->Click>=6.0 
->dlib>=19.3.0 
->numpy 
->Pillow 
->scipy>=0.17.0
+<br/>>face_recognition_models 
+<br/>>Click>=6.0 
+<br/>>dlib>=19.3.0 
+<br/>>numpy 
+<br/>>Pillow 
+<br/>>scipy>=0.17.0
 
 
-You can download CMake for Windows here : http://www.cmake.org/cmake/resources/software.html
+<br/>You can download CMake for Windows here : http://www.cmake.org/cmake/resources/software.html
 
 ## My definitions
 I have a folder with my images for training , folder images
