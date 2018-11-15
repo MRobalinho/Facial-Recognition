@@ -11,7 +11,7 @@ By using logarithms and software that map this pattern to people, it is possible
 
 The face recognition system consists of three fundamental phases: <b> face tracking, extraction and selection of facial features, and face recognition</b>.
 
-![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+![ScreenShot](https://github.com/MRobalinho/Facial-Recognition/blob/master/Doc/678191.jpg)
 
 The first step is to inform the coordinates of the characteristic points of the eyebrow, eyes, nose and mouth face.
 
