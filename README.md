@@ -11,13 +11,15 @@ By using logarithms and software that map this pattern to people, it is possible
 
 The face recognition system consists of three fundamental phases: <b> face tracking, extraction and selection of facial features, and face recognition</b>.
 
+![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+
 The first step is to inform the coordinates of the characteristic points of the eyebrow, eyes, nose and mouth face.
 
 Now the second step is to store the FACE and an ID (name if you prefer) for later authentication. In my Face-recognition_4 example I used an excel file with the photo's name and the person's name. In the Face-recognition_5 and 6 example I used the filename already named with people's names.
 
 The first step is to identify through a camera (digital, webcam, cell phone, among others) all or some of these points in common, such as the two eyes and the distance between them, the nose and its length, the mouth, the cheeks and the chin, thus limiting the shape of the face and the space occupied by it.
 
-In our algorithm ( face_recognition ) the system find the points: 
+In our algorithm ( <b>face_recognition</b> ) the system find the points: 
 <br/>chin 
 <br/>left_eyebrow 
 <br/>right_eyebrow 
