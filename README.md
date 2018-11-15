@@ -42,7 +42,7 @@ Python 3.3+ or Python 2.7
 ## Documentation to install
 pip3 install face_recognition pip install dlib
 
-Face Recognition GithubÇ https://github.com/ageitgey/face_recognition
+Face Recognition Github: https://github.com/ageitgey/face_recognition
 
 pip install cmake
 
