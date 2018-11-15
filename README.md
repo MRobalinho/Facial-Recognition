@@ -17,8 +17,8 @@ Now the second step is to store the FACE and an ID (name if you prefer) for late
 The first step is to identify through a camera (digital, webcam, cell phone, among others) all or some of these points in common, such as the two eyes and the distance between them, the nose and its length, the mouth, the cheeks and the chin, thus limiting the shape of the face and the space occupied by it.
 
 In our algorithm ( face_recognition ) the system find the points: 
-chin 
-left_eyebrow 
+<br/>chin 
+<br/>left_eyebrow 
 right_eyebrow 
 nose_bridge 
 nose_tip 
